@@ -65,6 +65,17 @@
         "controlled"
       ],
       "correctIndex": 1
+    },
+    {
+      "prompt": "which is not an http verb",
+      "answers": [
+        "PUT",
+        "GET",
+        "POST",
+        "CREATE"
+      ],
+      "correctIndex": "3",
+      "id": 8
     }
   ]
 }
